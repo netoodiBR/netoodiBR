@@ -1,6 +1,8 @@
-while(alive) {
+```java
+while (alive) {
     learn();
     build();
     bringValue();
     disappear();
 }
+```
